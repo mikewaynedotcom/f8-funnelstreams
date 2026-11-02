@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "f8-knowledge": {
+      "type": "http",
+      "url": "https://funnelstreamshelp.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "f8-funnelstreams",
+  "displayName": "F8 — FunnelStreams AI Assistant",
+  "version": "1.2.2",
+  "description": "F8, the FunnelStreams AI Assistant: 191 task skills across 24 families (forms, surveys, funnels, emails, workflows, social, StreamCards, websites, ecommerce, payments, CRM, pipelines, calendars, SMS, AI chatbots, courses, communities, affiliates, strategy, branding, analytics, support, the FunnelStreams AI Studio builder (FAST) and the Funnel AI page builder (FAB)) grounded in the published FunnelStreams Help Library through the F8 Knowledge MCP server.",
+  "author": {
+    "name": "Mike Wayne / FunnelStreams",
+    "url": "https://funnelstreamshelp.com"
+  },
+  "homepage": "https://funnelstreamshelp.com",
+  "keywords": [
+    "funnelstreams",
+    "funnels",
+    "marketing automation",
+    "crm",
+    "help library",
+    "ffews",
+    "streamcards",
+    "ai studio",
+    "funnel ai"
+  ],
+  "license": "SEE LICENSE IN LICENSE",
+  "privacyPolicyUrl": "https://funnelstreams.com/privacy-policy"
+}
