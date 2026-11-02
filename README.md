@@ -5,6 +5,18 @@ Library, and walks members through setting up forms, funnels, emails, workflows,
 websites, CRM, calendars, courses and more. It also plans and prompts FunnelStreams AI Studio apps (FAST) and
 writes safe, surgical Funnel AI page prompts (FAB).
 
+## Publisher and availability
+
+F8 is published by **MediaCraft Marketing, LLC**. F8 provides free FunnelStreams guidance and may refer to
+separately paid FunnelStreams offers; F8 does not process purchases.
+
+This repository distributes the Claude plugin. The ChatGPT package uses the same 191-skill source and currently
+has a private installation; public ChatGPT review is being prepared, not yet submitted.
+
+- [Support](https://funnelstreams.com/contact)
+- [Privacy Policy](https://funnelstreams.com/privacy-policy)
+- [Terms of Service](https://funnelstreams.com/terms-of-service)
+
 ## Install
 
 The knowledge connector (`https://funnelstreamshelp.com/mcp`) is public and read-only: **no key, token or sign-in is
