@@ -1,0 +1,19 @@
+{
+  "name": "funnelstreams-skills-mcp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "npm run build && node --test",
+    "start": "node server.mjs",
+    "build": "node scripts/build-worker.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/node": "2.1.2",
+    "@modelcontextprotocol/server": "2.4.0"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/client": "2.4.0",
+    "esbuild": "0.28.2"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "source": "mikewaynedotcom/f8-funnelstreams",
+  "revision": "770cc9b0a4594d9beab86e719e1f38cebb0d826f",
+  "visibility": "public-guidance-only",
+  "skills": {
+    "funnel-plan/SKILL.md": {"sha256":"86e26da0be2ba558b017ee77fbf539f7039b452143c49358e4efe1cb0c0a2cc0","size":7210},
+    "funnel-plan/F8_SYSTEM.md": {"sha256":"db0ea1ec9d5b5ee5fc80ef0650b17e5eb92f4b3d1622ecced1d829b25ac9877a","size":12285}
+  }
+}
